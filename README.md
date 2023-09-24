@@ -1,7 +1,6 @@
 <div>
-	<img alt="Intro image" src="https://github.com/Rohal004/Rohal004/blob/10ab48e191a81cde1e75ca1fd54c7c7313d5b635/1.png">
+	<img alt="intro gif" src="https://github.com/Rohal004/Rohal004/blob/4dddb567db18a7e794bc32d930ba622a900ef572/assests/images/i%E2%80%99m.gif">
 </div>
-
 
 ## 🌐 Socials:
 <html>
