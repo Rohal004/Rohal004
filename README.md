@@ -1,6 +1,7 @@
 <div>
 	<img alt="intro gif" src="https://github.com/Rohal004/Rohal004/blob/4dddb567db18a7e794bc32d930ba622a900ef572/assests/images/i%E2%80%99m.gif">
 </div>
+<h3> --> Gaining insights of <em>Java</em> with <em>Object-Oriented Programming</em></h3>
 
 ## 🌐 Connect Me:
 <html>
