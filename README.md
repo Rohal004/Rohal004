@@ -4,7 +4,7 @@
 <h3> --> Had Insights of <em>Java</em> with <em>Data Structures and Algorithm</em></h3>
 <h3> --> On Expedition to become a <em>MERN Stack Developer</em>.</h3>
 <h3> --> Certified Data Analyst by <em>Google</em>.</h3>
-<h3> -->  I love playing with data and finding the trends of <em>data</em> </h3>
+<h3> -->  I love playing with <em>data</em> and finding the trends of <em>data</em> </h3>
 <h3> --> Exploring the Data Engineering.</h3>
 
 ## 🌐 Connect Me:
