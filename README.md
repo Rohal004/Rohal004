@@ -5,7 +5,7 @@
 <h3> --> On Expedition to become a <em>MERN Stack Developer</em>.</h3>
 <h3> --> A Certified Data Analyst by <em>Google</em>.</h3>
 <h3> -->  I enjoy playing with <em>data</em> and finding the trends of <em>data</em> </h3>
-<h3> --> Exploring the Data Science.</h3>
+<h3> --> Exploring the <em>Data Science</em>.</h3>
 
 ## 🌐 Connect Me:
 <html>
