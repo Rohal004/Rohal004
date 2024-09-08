@@ -22,6 +22,9 @@
 <a href="https://instagram.com/rohal_0o4?igshid=OGQ5ZDc2ODk2ZA==">
   <img align="left" alt="Rohal's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
+<a href="rohaljamal12345@gmail.com">
+  <img align="left" alt="Rohal's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
 		<br>
 	</body>
 	</html>
