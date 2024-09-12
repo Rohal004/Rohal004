@@ -2,13 +2,13 @@
 	<img alt="intro gif" src="https://github.com/Rohal004/Rohal004/blob/4dddb567db18a7e794bc32d930ba622a900ef572/assests/images/i%E2%80%99m.gif">
 </div>
 <div>
-	<img align="right" alt="searching" width="450px" src="https://github.com/images/modules/search/light2x.png" />
+	<img align="right" alt="searching" width="468px" src="https://github.com/images/modules/search/light2x.png" />
 </div>
-<h3> --> Having Insights of <em>Java</em> with <em>Data Structures and Algorithm</em></h3>
-<h3> --> On Expedition to become a <em>MERN Stack Developer</em>.</h3>
-<h3> --> A Certified Data Analyst by <em>Google</em>.</h3>
-<h3> -->  I enjoy playing with <em>data</em> and finding the trends of <em>data</em> </h3>
-<h3> --> Exploring the <em>Data Science</em>.</h3> 
+<h4> --> Having Insights of <em>Java</em> with <em>Data Structures and Algorithm</em></h4>
+<h4> --> On Expedition to become a <em>MERN Stack Developer</em>.</h4>
+<h4> --> A Certified Data Analyst by <em>Google</em>.</h4>
+<h4> -->  I enjoy playing with <em>data</em> and finding the trends of <em>data</em> </h4>
+<h4> --> Exploring the <em>Data Science</em>.</h4> 
 
 ## 🌐 Connect Me:
 <html>
@@ -40,7 +40,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohal004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohal004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rohal004&theme=radical&no-frame=false=true&margin-w=4)
 
 ### ✍️ Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
