@@ -14,19 +14,19 @@
 <html>
 	<body>
 	<a href="https://www.facebook.com/soonuu003">
-  <img align="left" alt="Rohal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" />
+  <img align="left" alt="Rohal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13.9/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rohal-jamal004">
-  <img align="left" alt="Rohal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
+  <img align="left" alt="Rohal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13.9/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Rohal004">
-  <img align="left" alt="Rohal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" />
+  <img align="left" alt="Rohal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13.9/icons/github.svg" />
 </a>
 <a href="https://instagram.com/rohal_0o4?igshid=OGQ5ZDc2ODk2ZA==">
-  <img align="left" alt="Rohal's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/instagram.svg" />
+  <img align="left" alt="Rohal's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.9/icons/instagram.svg" />
 </a>
 <a href="rohaljamal12345@gmail.com">
-  <img align="left" alt="Rohal's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/gmail.svg" />
+  <img align="left" alt="Rohal's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.9/icons/gmail.svg" />
 </a>
 		<br>
 	</body>
