@@ -2,7 +2,7 @@
 	<img alt="intro gif" src="https://github.com/Rohal004/Rohal004/blob/4dddb567db18a7e794bc32d930ba622a900ef572/assests/images/i%E2%80%99m.gif">
 </div>
 <div>
-	<img align="right" alt="searching" width="468px" src="https://github.com/images/modules/search/light2x.png" />
+	<img align="right" alt="searching" width="467px" src="https://github.com/images/modules/search/light2x.png" />
 </div>
 <h4> --> Having Insights of <em>Java</em> with <em>Data Structures and Algorithm</em></h4>
 <h4> --> On Expedition to become a <em>MERN Stack Developer</em>.</h4>
