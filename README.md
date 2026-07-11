@@ -6,6 +6,7 @@
 </div>
 <h4> ---> Having Insights of <em>Java</em> with <em>Data Structures and Algorithm</em>.</h4>
 <h4> ---> On Expedition to become a <em>Data Engineer</em>.</h4>
+<h4> ---> Data Engineer Associate by DataCamp
 <h4> ---> A Certified Data Analyst by <em>Google</em>.</h4>
 <h4> --->  I enjoy playing with <em>data</em> and finding the trends of <em>data</em>. </h4>
 <h4> ---> Exploring the <em>Data Science</em>.</h4> 
