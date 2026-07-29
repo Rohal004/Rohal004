@@ -5,7 +5,7 @@
 	<img align="right" alt="searching" width="467px" src="https://github.com/images/modules/search/light2x.png" />
 </div>
 
-<h4> --> Having Insights of <em>Java</em> with <em>Data Structures and Algorithm</em>.</h4>
+<h4> --> Having Insights of <em>Python</em> with <em>Data Structures and Algorithm</em>.</h4>
 <h4> --> On Expedition to become a <em>Data Engineer</em>.</h4>
 <h4> --> Data Engineer Associate by DataCamp
 <h4> --> A Certified Data Analyst by <em>Google</em>.</h4>
