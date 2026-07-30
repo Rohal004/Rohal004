@@ -10,7 +10,7 @@
 <h4> --> Data Engineer Associate by DataCamp
 <h4> --> A Certified Data Analyst by <em>Google</em>.</h4>
 <h4> -->  I enjoy playing with <em>data</em> and finding the trends of <em>data</em>. </h4>
-<h4> --> Exploring the <em>Data Science</em>.</h4> 
+
 <div>
 	<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;Turning+raw+data+into+real+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+ETL+%7C+Cloud+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
